@@ -1,37 +1,36 @@
-# Hi there 👋 I'm Gaurav Jain
+<h1 align="center">Hi 👋, I'm Gaurav Jain</h1>
+<h3 align="center">💻 Software Developer | 🤖 AI/ML Enthusiast | 🚀 Tech Explorer</h3>
 
-💻 Passionate Developer | 🤖 AI/ML Enthusiast | 🚀 Tech Explorer  
-
-Welcome to my GitHub profile! I'm a developer who enjoys building software, exploring new technologies, and solving real-world problems using code.
+<p align="center">
+Passionate about building intelligent systems, scalable applications, and solving real-world problems using technology.
+</p>
 
 ---
 
 ## 🚀 About Me
 
-- 🎓 Computer Science enthusiast
-- 🤖 Interested in **Artificial Intelligence & Machine Learning**
-- 💡 Love working with **multiple programming languages**
-- 📚 Always learning new technologies
-- 🛠️ Enjoy building projects and experimenting with ideas
+- 🎓 Computer Science student passionate about **technology and innovation**
+- 🤖 Interested in **Artificial Intelligence, Machine Learning, and Data Science**
+- 💻 Love building **software applications and web systems**
+- 🧠 Constantly learning **new programming languages and frameworks**
+- 🔬 Enjoy experimenting with **AI models and automation**
+- 🚀 Aim to contribute to **open source and impactful tech projects**
 
 ---
 
 ## 🧠 Skills & Technologies
 
 ### 👨‍💻 Programming Languages
-- C++
-- Python
-- Java
-- JavaScript
-- C#
-- C
-- SQL
+<p>
+C++ • Python • Java • JavaScript • C# • C • SQL
+</p>
 
-### 🤖 AI / Machine Learning
+### 🤖 Artificial Intelligence & Machine Learning
 - Machine Learning
 - Data Analysis
 - Model Training
-- Python ML Libraries
+- Data Preprocessing
+- Python ML Libraries (NumPy, Pandas, Scikit-learn)
 
 ### 🌐 Web Development
 - HTML
@@ -49,35 +48,72 @@ Welcome to my GitHub profile! I'm a developer who enjoys building software, expl
 - VS Code
 - Linux
 - Jupyter Notebook
+- Postman
+
+---
+
+## 🛠 Projects & Interests
+
+I enjoy working on projects related to:
+
+- 🤖 **Machine Learning Applications**
+- 🌐 **Full Stack Web Development**
+- 📊 **Data Analysis Projects**
+- ⚙️ **Automation Tools**
+- 🧠 **AI based solutions**
 
 ---
 
 ## 📊 GitHub Stats
 
-![Gaurav's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gaurav-jain-21&show_icons=true&theme=tokyonight)
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Gaurav-jain-21&show_icons=true&theme=tokyonight" />
+</p>
 
 ---
 
 ## 🔥 Most Used Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Gaurav-jain-21&layout=compact&theme=tokyonight)
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gaurav-jain-21&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## 📈 GitHub Activity
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Gaurav-jain-21&theme=tokyonight" />
+</p>
 
 ---
 
 ## 🌱 Currently Learning
 
-- Advanced Machine Learning
-- Deep Learning
-- System Design
-- Full Stack Development
+- Advanced **Machine Learning**
+- **Deep Learning**
+- **System Design**
+- **Full Stack Development**
+- **Cloud Technologies**
 
 ---
 
-## 🤝 Let's Connect
+## 🎯 Goals
 
-- 📫 Reach me on GitHub
-- 💬 Always open to collaboration on interesting projects
+- Build impactful **AI & ML projects**
+- Contribute to **Open Source**
+- Become a **skilled Software Engineer**
+- Work on **large scale systems**
 
 ---
 
-⭐ *Thanks for visiting my profile!*
+## 🤝 Connect With Me
+
+- 💬 Open for collaboration on **interesting tech projects**
+- 📫 Reach me through **GitHub**
+
+---
+
+<p align="center">
+⭐ Thanks for visiting my profile!
+</p>
