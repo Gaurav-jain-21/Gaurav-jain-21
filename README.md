@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Gaurav Jain</h1>
+<h1 align="center">👋 Hey, I'm Gaurav Jain</h1>
 <h3 align="center">💻 Software Developer | 🤖 AI/ML Enthusiast | 🚀 Tech Explorer</h3>
 
 <p align="center">
@@ -7,60 +7,28 @@ Passionate about building intelligent systems, scalable applications, and solvin
 
 ---
 
-## 🚀 About Me
+## 🧑‍💻 Tech Stack & Skills
 
-- 🎓 Computer Science student passionate about **technology and innovation**
-- 🤖 Interested in **Artificial Intelligence, Machine Learning, and Data Science**
-- 💻 Love building **software applications and web systems**
-- 🧠 Constantly learning **new programming languages and frameworks**
-- 🔬 Enjoy experimenting with **AI models and automation**
-- 🚀 Aim to contribute to **open source and impactful tech projects**
+**Programming Languages**  
+Python • C++ • Java • JavaScript • C# • SQL
 
----
+**AI & Machine Learning**  
+Machine Learning • Data Analysis • Model Training • NumPy • Pandas • Scikit-learn
 
-## 🧠 Skills & Technologies
+**Web Development**  
+HTML • CSS • JavaScript • Node.js • REST APIs
 
-### 👨‍💻 Programming Languages
-<p>
-C++ • Python • Java • JavaScript • C# • C • SQL
-</p>
-
-### 🤖 Artificial Intelligence & Machine Learning
-- Machine Learning
-- Data Analysis
-- Model Training
-- Data Preprocessing
-- Python ML Libraries (NumPy, Pandas, Scikit-learn)
-
-### 🌐 Web Development
-- HTML
-- CSS
-- JavaScript
-- Node.js
-- REST APIs
-
-### 🗄️ Databases
-- MySQL
-- MongoDB
-
-### ⚙️ Tools & Technologies
-- Git & GitHub
-- VS Code
-- Linux
-- Jupyter Notebook
-- Postman
+**Tools & Platforms**  
+Git • GitHub • VS Code • Linux • Jupyter Notebook • Postman • MySQL • MongoDB
 
 ---
 
-## 🛠 Projects & Interests
+## 🎯 What I'm Focused On
 
-I enjoy working on projects related to:
-
-- 🤖 **Machine Learning Applications**
-- 🌐 **Full Stack Web Development**
-- 📊 **Data Analysis Projects**
-- ⚙️ **Automation Tools**
-- 🧠 **AI based solutions**
+- 🤖 Building **AI & Machine Learning applications**
+- 🌐 Developing **full-stack web applications**
+- ⚙️ Creating **automation tools**
+- 📊 Working on **data analysis projects**
 
 ---
 
@@ -88,29 +56,10 @@ I enjoy working on projects related to:
 
 ---
 
-## 🌱 Currently Learning
-
-- Advanced **Machine Learning**
-- **Deep Learning**
-- **System Design**
-- **Full Stack Development**
-- **Cloud Technologies**
-
----
-
-## 🎯 Goals
-
-- Build impactful **AI & ML projects**
-- Contribute to **Open Source**
-- Become a **skilled Software Engineer**
-- Work on **large scale systems**
-
----
-
 ## 🤝 Connect With Me
 
-- 💬 Open for collaboration on **interesting tech projects**
-- 📫 Reach me through **GitHub**
+- 💬 Open to collaborate on **AI, ML, and Web projects**
+- ⭐ Explore my repositories and feel free to contribute
 
 ---
 
