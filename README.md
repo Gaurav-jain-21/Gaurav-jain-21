@@ -10,16 +10,16 @@ Passionate about building intelligent systems, scalable applications, and solvin
 ## 🧑‍💻 Tech Stack & Skills
 
 **Programming Languages**  
-Python • C++ • Java • JavaScript • C# • SQL
+Python • C++ • Java • JavaScript • C# • SQL • TypeScript
 
 **AI & Machine Learning**  
-Machine Learning • Data Analysis • Model Training • NumPy • Pandas • Scikit-learn
+Machine Learning • Data Analysis • Model Training • NumPy • Pandas • Scikit-learn • TensorFlow
 
 **Web Development**  
-HTML • CSS • JavaScript • Node.js • REST APIs
+HTML • CSS • JavaScript • Node.js • REST APIs • React
 
 **Tools & Platforms**  
-Git • GitHub • VS Code • Linux • Jupyter Notebook • Postman • MySQL • MongoDB
+Git • GitHub • VS Code • Linux • Jupyter Notebook • Postman • MySQL • MongoDB • PgAdmin • JetBrains 
 
 ---
 
