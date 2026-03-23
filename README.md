@@ -16,10 +16,7 @@ Python • C++ • Java • JavaScript • C# • SQL • TypeScript • Dart
 Machine Learning • Data Analysis • Model Training • NumPy • Pandas • Scikit-learn • TensorFlow
 
 **Web Development**  
-HTML • CSS • JavaScript • Node.js • REST APIs • React • PHP • Spring Boot • FastAPI
-
-**App Development**
-Flutter • FireBase
+HTML • CSS • JavaScript • Node.js • REST APIs • React • PHP • Spring Boot • FastAPI • Flutter • FireBase
 
 **Tools & Platforms**  
 Git • GitHub • VS Code • Linux • Jupyter Notebook • Postman • MySQL • MongoDB • PgAdmin • JetBrains 
