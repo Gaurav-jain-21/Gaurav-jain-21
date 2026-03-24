@@ -19,7 +19,7 @@ Machine Learning • Data Analysis • Model Training • NumPy • Pandas • S
 HTML • CSS • JavaScript • Node.js • REST APIs • React • PHP • Spring Boot • FastAPI • Flutter • FireBase
 
 **Tools & Platforms**  
-Git • GitHub • VS Code • Linux • Jupyter Notebook • Postman • MySQL • MongoDB • PgAdmin • JetBrains 
+Git • GitHub • VS Code • Linux • Jupyter Notebook • Postman • MySQL • MongoDB • PgAdmin • JetBrains • Docker
 
 ---
 
