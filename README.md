@@ -32,22 +32,6 @@ Git • GitHub • VS Code • Linux • Jupyter Notebook • Postman • MySQL 
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Gaurav-jain-21&show_icons=true&theme=tokyonight" />
-</p>
-
----
-
-## 🔥 Most Used Languages
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gaurav-jain-21&layout=compact&theme=tokyonight" />
-</p>
-
----
-
 ## 📈 GitHub Activity
 
 <p align="center">
