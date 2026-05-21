@@ -13,13 +13,13 @@ Passionate about building intelligent systems, scalable applications, and solvin
 Python • C++ • Java • JavaScript • C# • SQL • TypeScript • Dart
 
 **AI & Machine Learning**  
-Machine Learning • Data Analysis • Model Training • NumPy • Pandas • Scikit-learn • TensorFlow
+Machine Learning • Data Analysis • Model Training • NumPy • Pandas • Scikit-learn • TensorFlow • Generative AI • Langchain • RAG
 
 **Web Development**  
-HTML • CSS • JavaScript • Node.js • REST APIs • React • PHP • Spring Boot • FastAPI • Flutter • FireBase
+HTML • CSS • JavaScript • Node.js • REST APIs • React • PHP • Spring Boot • FastAPI • Flutter • FireBase • GoLang
 
 **Tools & Platforms**  
-Git • GitHub • VS Code • Linux • Jupyter Notebook • Postman • MySQL • MongoDB • PgAdmin • JetBrains • Docker
+Git • GitHub • VS Code • Linux • Jupyter Notebook • Postman • MySQL • MongoDB • PgAdmin • JetBrains • Docker • Microservice
 
 ---
 
