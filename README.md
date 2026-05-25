@@ -13,7 +13,7 @@ Passionate about building intelligent systems, scalable applications, and solvin
 Python • C++ • Java • JavaScript • C# • SQL • TypeScript • Dart
 
 **AI & Machine Learning**  
-Machine Learning • Data Analysis • Model Training • NumPy • Pandas • Scikit-learn • TensorFlow • Generative AI • Langchain • RAG
+Machine Learning • Data Analysis • Deep Learning • NumPy • Pandas • Scikit-learn • TensorFlow • Generative AI • Langchain • RAG
 
 **Web Development**  
 HTML • CSS • JavaScript • Node.js • REST APIs • React • PHP • Spring Boot • FastAPI • Flutter • FireBase • GoLang
