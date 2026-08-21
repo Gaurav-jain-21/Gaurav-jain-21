@@ -10,7 +10,7 @@ Passionate about building intelligent systems, scalable applications, and solvin
 ## 🧑‍💻 Tech Stack & Skills
 
 **Programming Languages**  
-Python • C++ • Java • JavaScript • SQL • TypeScript • Dart
+Python • C++ • Java • JavaScript • SQL • TypeScript • Dart • GoLang
 
 **AI & Machine Learning**  
 Machine Learning • Data Analysis • Deep Learning • NumPy • Pandas • Scikit-learn • TensorFlow • Generative AI • Langchain • RAG • Agentic AI • LangGraph
