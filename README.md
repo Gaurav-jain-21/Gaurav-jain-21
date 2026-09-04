@@ -10,13 +10,13 @@ Passionate about building intelligent systems, scalable applications, and solvin
 ## 🧑‍💻 Tech Stack & Skills
 
 **Programming Languages**  
-Python • C++ • Java • JavaScript • SQL • TypeScript • Dart 
+Python • C++ • Java • JavaScript • SQL • TypeScript • Dart • GoLang
 
 **AI & Machine Learning**  
 Machine Learning • Data Analysis • Deep Learning • NumPy • Pandas • Scikit-learn • TensorFlow • Generative AI • Langchain • RAG • Agentic AI • LangGraph • LangSmith
 
 **Web Development**  
-HTML • CSS • JavaScript • Node.js • REST APIs • React • PHP • Spring Boot • FastAPI • Flutter • FireBase • GoLang 
+HTML • CSS • JavaScript • Node.js • REST APIs • React • PHP • Spring Boot • FastAPI • Flutter • FireBase • Gin
 
 **Tools & Platforms**  
 Git • GitHub • VS Code • Linux • Jupyter Notebook • Postman • MySQL • MongoDB • PgAdmin • JetBrains • Docker • Microservice
